@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/telaInicial.unity
+    guid: d0966aa8f5ff51f4d9c40dd69299b736
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: d8a0320a652b178429edec551b957616
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/personagem.unity
+    guid: 4049f14f0ef43a4448eb226c2113323c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/escolherFase.unity
+    guid: 5431b972ad1d8c14287b0c6517c8dfc1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/faseBucal.unity
+    guid: 7f3e9bc986dec7245a0f86d2150d4437
+  - enabled: 1
+    path: Assets/Scenes/faseCapilar.unity
+    guid: 3db4943caf1f608449ef335e6b9bbd50
+  - enabled: 1
+    path: Assets/Scenes/faseCondicionador.unity
+    guid: f5a7de97edc66e04281836c7e2a48664
+  - enabled: 1
+    path: Assets/Scenes/faseMaos.unity
+    guid: 895b9f6ea96b7104bb021b57ec337613
+  - enabled: 1
+    path: Assets/Scenes/fioDental.unity
+    guid: 5f9c9fbc13ccae44fbd04ac3c345d37d
+  - enabled: 1
+    path: Assets/Scenes/faseLingua.unity
+    guid: 5d9424a0ddbe9784fbafcb77aee856d2
+  - enabled: 1
+    path: Assets/Scenes/faseCorporal.unity
+    guid: 3888a18ea9eb35448b0520075e10e30d
+  - enabled: 1
+    path: Assets/Scenes/tutorialHigieneBucal.unity
+    guid: 8356fd3dd9eed8345b5fbe35c5036c24
+  - enabled: 1
+    path: Assets/Scenes/tutorialFiodental.unity
+    guid: 1e4b068b6ad58674d80387772a2c31bb
+  - enabled: 1
+    path: Assets/Scenes/fasePentearCabelo.unity
+    guid: 7d87c93219a0831429ecc725e17457dd
+  - enabled: 1
+    path: Assets/Scenes/faseDorsoMaos.unity
+    guid: 0545726bd5b402244972330d57c98b79
+  - enabled: 1
+    path: Assets/Scenes/fasecortarUnha.unity
+    guid: 09cd9adeb40a8f74798d30cdacca8f72
+  - enabled: 1
+    path: Assets/Scenes/sobre.unity
+    guid: 8851c9ef6a4e79f45ade09775671b609
+  - enabled: 0
+    path: Assets/Scenes/play.unity
+    guid: 1d251a62cd8be114db58bf52cecf5dea
+  - enabled: 1
+    path: Assets/Scenes/play1.unity
+    guid: 24387e27567aa7d479ebf963d0d31433
+  - enabled: 1
+    path: Assets/Scenes/gameOver.unity
+    guid: de56331d799979e44af9f482dd8ce8ce
+  - enabled: 1
+    path: Assets/Scenes/tutorialHigieneMaos.unity
+    guid: 191f3305147e0024e9c2ec030bcc3ec3
+  - enabled: 1
+    path: Assets/Scenes/tutorialCabelos.unity
+    guid: f54468eb6a8326642ab11cbdca206395
+  - enabled: 1
+    path: Assets/Scenes/tutorialBanho.unity
+    guid: aa7d45096daef0547b9f23c9aabe3a98
+  - enabled: 1
+    path: Assets/Scenes/cenaTempo.unity
+    guid: 59dbd5db4ab71044491b9acca5cb1c5f
+  - enabled: 1
+    path: Assets/Scenes/tempoEsgotado.unity
+    guid: ac8853699df2bfa4b912d3c23a17c9a9
+  m_configObjects: {}
